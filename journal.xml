@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Journal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <name> Ученые записки Казанского университета. Серия Физико-математические науки</name>
+    <url>http://m.mathnet.ru/php/archive.phtml?jrnid=uzku&amp;wshow=issue&amp;bshow=contents&amp;series=0&amp;year=2014&amp;volume=156&amp;issue=1&amp;option_lang=rus&amp;bookID=1517</url>
+    <issues>
+        <Issue>
+            <issue>2014,  том 156,  книга 1</issue>
+            <articles>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1224</link>
+                    <title>Решение задачи устойчивости тонкой оболочки при импульсном нагружении</title>
+                    <abstract>Рассмотрена задача устойчивости тонкой оболочки под действием осевой импульсной нагрузки. Предложен новый подход к построению математической модели, основанный на принципе стационарности действия Остроградского–Гамильтона. Показано, что задача сводится к системе нелинейных дифференциальных уравнений, которые могут быть решены численно, а также с помощью разработанного авторами алгоритма приближенных вычислений. Выведена формула, определяющая зависимость между интенсивностью нагрузки и начальными условиями задачи. В указанной постановке решена задача устойчивости круговой цилиндрической оболочки, для определения критического значения импульса нагрузки использована теория устойчивости движения А. М. Ляпунова.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>оболочка</value>
+                            <stem>
+                                <string>оболочка</string>
+                            </stem>
+                            <porter>
+                                <string>оболочк</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>устойчивость</value>
+                            <stem>
+                                <string>устойчивость</string>
+                            </stem>
+                            <porter>
+                                <string>устойчивост</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>импульс.</value>
+                            <stem>
+                                <string>импульс</string>
+                            </stem>
+                            <porter>
+                                <string>импульс.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1225</link>
+                    <title>Подход к ранжированию результатов для терминологического поиска на основе меры близости строк</title>
+                    <abstract>В статье проведена модификации полнотекстового подхода к информационному поиску на основе использования семантической информации о терминологических единицах в тексте. Исследован вопрос о выборе ранжирующей метрики для такого вида поиска. Рассмотрены несколько существующих метрик, а также предложена новая, использующая особенности терминологического поиска. Проведены экспериментальные сравнения предложенных метрик ранжирования и оценки эффективности самой поисковой системы.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>информационный поиск</value>
+                            <stem>
+                                <string>информационный</string>
+                                <string>поиск</string>
+                            </stem>
+                            <porter>
+                                <string>информацион</string>
+                                <string>поиск</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>ранжирование</value>
+                            <stem>
+                                <string>ранжирование</string>
+                            </stem>
+                            <porter>
+                                <string>ранжирован</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>терминология.</value>
+                            <stem>
+                                <string>терминология</string>
+                            </stem>
+                            <porter>
+                                <string>терминолог.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1226</link>
+                    <title>О предельно монотонной сводимости $\Sigma_2^0$-множеств</title>
+                    <abstract>Исследованы свойства lm-сводимости множеств, принадлежащих классу</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>вычислимые функции</value>
+                            <stem>
+                                <string>вычислимый</string>
+                                <string>функция</string>
+                            </stem>
+                            <porter>
+                                <string>вычислим</string>
+                                <string>функц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>$\Sigma_2^0$-множества</value>
+                            <stem>
+                                <string>Sigma??</string>
+                                <string>множество</string>
+                            </stem>
+                            <porter>
+                                <string>$\Sigma_2^0$-множеств</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>предельно монотонные функции</value>
+                            <stem>
+                                <string>предельно|предельный</string>
+                                <string>монотонный</string>
+                                <string>функция</string>
+                            </stem>
+                            <porter>
+                                <string>предельно</string>
+                                <string>монотон</string>
+                                <string>функц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>предельно монотонные множества.</value>
+                            <stem>
+                                <string>предельно|предельный</string>
+                                <string>монотонный</string>
+                                <string>множество</string>
+                            </stem>
+                            <porter>
+                                <string>предельно</string>
+                                <string>монотон</string>
+                                <string>множеств.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1227</link>
+                    <title>О выходе из множества Гахова, контролируемом условиями подчиненности</title>
+                    <abstract>Множество Гахова </abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>гиперболическая производная</value>
+                            <stem>
+                                <string>гиперболический</string>
+                                <string>производная|производный</string>
+                            </stem>
+                            <porter>
+                                <string>гиперболическ</string>
+                                <string>производн</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>конформный радиус</value>
+                            <stem>
+                                <string>конформный</string>
+                                <string>радиус</string>
+                            </stem>
+                            <porter>
+                                <string>конформн</string>
+                                <string>радиус</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>бифуркации критических точек</value>
+                            <stem>
+                                <string>бифуркация</string>
+                                <string>критический</string>
+                                <string>точка</string>
+                            </stem>
+                            <porter>
+                                <string>бифуркац</string>
+                                <string>критических</string>
+                                <string>точек</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>множество Гахова</value>
+                            <stem>
+                                <string>множество</string>
+                                <string>гахов?|гахово?|гахова?|гаховый?</string>
+                            </stem>
+                            <porter>
+                                <string>множество</string>
+                                <string>гахов</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>класс звездообразных функций</value>
+                            <stem>
+                                <string>класс</string>
+                                <string>звездообразный</string>
+                                <string>функция</string>
+                            </stem>
+                            <porter>
+                                <string>класс</string>
+                                <string>звездообразных</string>
+                                <string>функц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>условия подчиненности.</value>
+                            <stem>
+                                <string>условие</string>
+                                <string>подчиненность</string>
+                            </stem>
+                            <porter>
+                                <string>услов</string>
+                                <string>подчиненност.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1228</link>
+                    <title>Оценки частных индексов гельдеровских матриц-функций второго порядка</title>
+                    <abstract>Получены оценки частных индексов матриц-функций второго порядка, зависящие от суммарного индекса матрицы-функции, индексов Коши ее элементов и числа линейно-независимых решений определенных линейных алгебраических систем.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>матрица-функция</value>
+                            <stem>
+                                <string>матрица</string>
+                                <string>функция</string>
+                            </stem>
+                            <porter>
+                                <string>матрица-функц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>факторизация</value>
+                            <stem>
+                                <string>факторизация?</string>
+                            </stem>
+                            <porter>
+                                <string>факторизац</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>частные индексы.</value>
+                            <stem>
+                                <string>частный|частное</string>
+                                <string>индекс</string>
+                            </stem>
+                            <porter>
+                                <string>частн</string>
+                                <string>индекс.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1229</link>
+                    <title>Нормальные связности на трехмерных однородных пространствах с неразрешимой группой преобразований. II. Разрешимый стабилизатор</title>
+                    <abstract>Представлена локальная классификация трехмерных однородных пространств, допускающих нормальную связность. В статье рассмотрен только случай неразрешимой группы Ли преобразований с разрешимым стабилизатором. Локальная классификация однородных пространств эквивалентна описанию эффективных пар алгебр Ли. Описаны все инвариантные аффинные связности на таких однородных пространствах вместе с их тензорами кривизны и кручения. Исследованы алгебры голономии однородных пространств и найдено, когда инвариантная связность нормальна. В работе использован алгебраический подход для описания связностей, методы теорий групп Ли, алгебр Ли и однородных пространств.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>нормальная связность</value>
+                            <stem>
+                                <string>нормальный</string>
+                                <string>связность</string>
+                            </stem>
+                            <porter>
+                                <string>нормальн</string>
+                                <string>связност</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>однородное пространство</value>
+                            <stem>
+                                <string>однородный</string>
+                                <string>пространство</string>
+                            </stem>
+                            <porter>
+                                <string>однородн</string>
+                                <string>пространство</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>группа преобразований</value>
+                            <stem>
+                                <string>группа</string>
+                                <string>преобразование</string>
+                            </stem>
+                            <porter>
+                                <string>групп</string>
+                                <string>преобразован</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>алгебра голономии.</value>
+                            <stem>
+                                <string>алгебра</string>
+                                <string>голономия?</string>
+                            </stem>
+                            <porter>
+                                <string>алгебр</string>
+                                <string>голоном.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1230</link>
+                    <title>Упругое полупространство под действием одномерных нестационарных диффузионных возмущений</title>
+                    <abstract>Рассматривается одномерная задача упругой диффузии для однокомпонентного полупространства. Используется локально равновесная геометрически линейная модель упругой диффузии, включающая в себя связанную систему уравнений движения упругого тела и уравнения массопереноса. Для построения решения применяются интегральные преобразования Фурье по пространственной координате и Лапласа по времени. Задача обращения трансформант Лапласа сводится к обращению рациональной функции, обратное преобразование Фурье осуществляется численно. Строится фундаментальное решение задачи. Рассмотрен пример для случая, когда диффузионный поток на границе постоянен. Полученные результаты представляют собой теоретическую основу для анализа напряжённо-деформированного состояния в авиационных и космических конструкциях, работающих в условиях многофакторных внешних воздействий.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>упругая диффузия</value>
+                            <stem>
+                                <string>упругий</string>
+                                <string>диффузия</string>
+                            </stem>
+                            <porter>
+                                <string>упруг</string>
+                                <string>диффуз</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>нестационарные задачи</value>
+                            <stem>
+                                <string>нестационарный</string>
+                                <string>задача</string>
+                            </stem>
+                            <porter>
+                                <string>нестационарн</string>
+                                <string>задач</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>преобразование Фурье</value>
+                            <stem>
+                                <string>преобразование</string>
+                                <string>фурье</string>
+                            </stem>
+                            <porter>
+                                <string>преобразован</string>
+                                <string>фур</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>преобразование Лапласа</value>
+                            <stem>
+                                <string>преобразование</string>
+                                <string>лаплас</string>
+                            </stem>
+                            <porter>
+                                <string>преобразован</string>
+                                <string>лаплас</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>полупространство.</value>
+                            <stem>
+                                <string>полупространство</string>
+                            </stem>
+                            <porter>
+                                <string>полупространство.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1231</link>
+                    <title>Эволюция возмущений сферической формы кавитационного пузырька при его взрывном коллапсе</title>
+                    <abstract>Изучена степень роста малых отклонений от сферической формы кавитационного пузырька при его однократном сильном сжатии. В начале сжатия пары жидкости в полости пузырька находятся в состоянии насыщения. Отклонения от сферичности принимаются в виде сферических гармоник степени</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>кавитационный пузырек</value>
+                            <stem>
+                                <string>кавитационный</string>
+                                <string>пузырек</string>
+                            </stem>
+                            <porter>
+                                <string>кавитацион</string>
+                                <string>пузырек</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>паровой пузырек</value>
+                            <stem>
+                                <string>паровой</string>
+                                <string>пузырек</string>
+                            </stem>
+                            <porter>
+                                <string>паров</string>
+                                <string>пузырек</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>коллапс пузырька</value>
+                            <stem>
+                                <string>коллапс</string>
+                                <string>пузырек</string>
+                            </stem>
+                            <porter>
+                                <string>коллапс</string>
+                                <string>пузырьк</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>сжатие пузырька</value>
+                            <stem>
+                                <string>сжатие</string>
+                                <string>пузырек</string>
+                            </stem>
+                            <porter>
+                                <string>сжат</string>
+                                <string>пузырьк</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>искажение сферической формы</value>
+                            <stem>
+                                <string>искажение</string>
+                                <string>сферический</string>
+                                <string>форма</string>
+                            </stem>
+                            <porter>
+                                <string>искажен</string>
+                                <string>сферическ</string>
+                                <string>форм</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>деформация пузырька.</value>
+                            <stem>
+                                <string>деформация</string>
+                                <string>пузырек</string>
+                            </stem>
+                            <porter>
+                                <string>деформац</string>
+                                <string>пузырьк.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1232</link>
+                    <title>К задаче о свободных угловых движениях деформируемого твердого тела, близкого по форме к шару</title>
+                    <abstract>Изучены свободные угловые движения однородного упругого тела, близкого по форме к шару. На примере тела с малыми отклонениями формы от шаровой с эллипсоидальной и кубической симметриями продемонстрирован эффект глобального перемещения полюса (положения оси устойчивого стационарного вращения в теле).</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>устойчивость</value>
+                            <stem>
+                                <string>устойчивость</string>
+                            </stem>
+                            <porter>
+                                <string>устойчивост</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>стационарное вращение</value>
+                            <stem>
+                                <string>стационарный</string>
+                                <string>вращение</string>
+                            </stem>
+                            <porter>
+                                <string>стационарн</string>
+                                <string>вращен</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>упругие деформации</value>
+                            <stem>
+                                <string>упругий</string>
+                                <string>деформация</string>
+                            </stem>
+                            <porter>
+                                <string>упруг</string>
+                                <string>деформац</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>эллипсоид инерции</value>
+                            <stem>
+                                <string>эллипсоид</string>
+                                <string>инерция</string>
+                            </stem>
+                            <porter>
+                                <string>эллипсоид</string>
+                                <string>инерц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>квазисферическая поверхность</value>
+                            <stem>
+                                <string>квазисферический?</string>
+                                <string>поверхность</string>
+                            </stem>
+                            <porter>
+                                <string>квазисферическ</string>
+                                <string>поверхност</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>кубическая симметрия.</value>
+                            <stem>
+                                <string>кубический</string>
+                                <string>симметрия</string>
+                            </stem>
+                            <porter>
+                                <string>кубическ</string>
+                                <string>симметр.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1233</link>
+                    <title>Лунные исследования в Казанском университете: тенденции, результаты, перспективы. II. Селенография</title>
+                    <abstract>В статье рассмотрены вопросы современного развития в Казанском федеральном университете селенографических исследований, связанных с позиционными и спутниковыми наблюдениями Луны, изучением её геометрической и динамической фигур, лунного гравитационного поля и морфологии объектов на поверхности нашего естественного спутника.</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>селеноцентрическая система координат</value>
+                            <stem>
+                                <string>селеноцентрический</string>
+                                <string>система</string>
+                                <string>координата</string>
+                            </stem>
+                            <porter>
+                                <string>селеноцентрическ</string>
+                                <string>систем</string>
+                                <string>координат</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>позиционные и спутниковые наблюдения Луны</value>
+                            <stem>
+                                <string>позиционный</string>
+                                <string>и</string>
+                                <string>спутниковый</string>
+                                <string>наблюдение</string>
+                                <string>луна</string>
+                            </stem>
+                            <porter>
+                                <string>позицион</string>
+                                <string>и</string>
+                                <string>спутников</string>
+                                <string>наблюден</string>
+                                <string>лун</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>селенопотенциал</value>
+                            <stem>
+                                <string>селенопотенциал?</string>
+                            </stem>
+                            <porter>
+                                <string>селенопотенциа</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>динамическая фигура.</value>
+                            <stem>
+                                <string>динамический</string>
+                                <string>фигура</string>
+                            </stem>
+                            <porter>
+                                <string>динамическ</string>
+                                <string>фигур.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1234</link>
+                    <title>Конференции по научному направлению “Резонансные свойства конденсированных сред”, проведённые в Казани, как отражение развития магнитной радиоспектроскопии</title>
+                    <abstract>В связи с юбилейной датой –</abstract>
+                    <keywords>
+                        <Keyword>
+                            <value>магнитная радиоспектроскопия</value>
+                            <stem>
+                                <string>магнитный|магнитная</string>
+                                <string>радиоспектроскопия</string>
+                            </stem>
+                            <porter>
+                                <string>магнитн</string>
+                                <string>радиоспектроскоп</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>электронный парамагнитный резонанс (ЭПР)</value>
+                            <stem>
+                                <string>электронный</string>
+                                <string>парамагнитный</string>
+                                <string>резонанс</string>
+                                <string>эпр?|эпра?</string>
+                            </stem>
+                            <porter>
+                                <string>электрон</string>
+                                <string>парамагнитн</string>
+                                <string>резонанс</string>
+                                <string>(эпр)</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>акустический парамагнитный резонанс (АПР)</value>
+                            <stem>
+                                <string>акустический</string>
+                                <string>парамагнитный</string>
+                                <string>резонанс</string>
+                                <string>апр</string>
+                            </stem>
+                            <porter>
+                                <string>акустическ</string>
+                                <string>парамагнитн</string>
+                                <string>резонанс</string>
+                                <string>(апр)</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>научные конференции</value>
+                            <stem>
+                                <string>научный</string>
+                                <string>конференция</string>
+                            </stem>
+                            <porter>
+                                <string>научн</string>
+                                <string>конференц</string>
+                            </porter>
+
+                        </Keyword>
+                        <Keyword>
+                            <value>приложения магнитных резонансов.</value>
+                            <stem>
+                                <string>приложение</string>
+                                <string>магнитный</string>
+                                <string>резонанс</string>
+                            </stem>
+                            <porter>
+                                <string>приложен</string>
+                                <string>магнитных</string>
+                                <string>резонанс.</string>
+                            </porter>
+
+                        </Keyword>
+                    </keywords>
+
+                </Article>
+                <Article>
+                    <link>http://m.mathnet.ru/rus/uzku1235</link>
+                    <title>Профессор М. М. Арсланов и теорема о неподвижных точках</title>
+                    <abstract></abstract>
+                    <keywords>
+                    </keywords>
+
+                </Article>
+            </articles>
+
+        </Issue>
+    </issues>
+</Journal>
