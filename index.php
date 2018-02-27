@@ -2,35 +2,60 @@
 
 class Keyword {
     public $value = null;
-    public $stem = null;
-    public $porter = null;
     public function __construct(string $value)
     {
         $value = trim(urldecode($value));
         $this->value = $value;
+    }
+}
+class StemAndPorter
+{
+    public function __construct(string $value)
+    {
         $this->mystem($value);
         $this->porter($value);
-
     }
+
+    public $stem = '';
+    public $porter = '';
     public function mystem($q) {
-        exec('echo ' . $q . ' | c:\mystem\mystem.exe -cn -e cp866', $result);
+        exec('echo ' . $q . ' | c:\mystem\mystem.exe -ld -e cp866', $result);
         foreach ($result as $k => $v) {
-            preg_match('/\{(.*)\}/',  iconv("cp866", "utf-8", $v), $m);
-            if ($m) {
-                $this->stem[] = $m[1];
-            }
+
+            $this->stem .=  preg_replace(['/}{/', '/(}|{)/'], [' ', ''],  iconv("cp866", "utf-8", $v));
         }
-        var_dump($q, $this->stem);
+//        var_dump($q, $this->stem);
     }
     public function porter(string $value) {
         require_once ('LinguaStemRu.php');
         $s = new \Stem\LinguaStemRu();
         $s = explode(' ',$s->stem_text($value));
         foreach ($s as $v) {
-            $this->porter[] = $v;
+            $this->porter  .= ' ' . $v;
         }
+        $this->porter = trim($this->porter);
     }
 }
+
+class MyAbstract extends StemAndPorter
+{
+    public $abstract = null;
+    public function __construct(string $value)
+    {
+        $this->abstract = $value;
+        parent::__construct($value);
+    }
+}
+class Title extends StemAndPorter
+{
+    public $title = null;
+    public function __construct(string $value)
+    {
+        $this->title = $value;
+        parent::__construct($value);
+    }
+}
+
 
 class Article
 {
@@ -48,7 +73,9 @@ class Article
         $doc->loadHTMLFile($this->link);
         $xpath = new DOMXPath($doc);
         $this->title = trim($xpath->query("// body / div[contains(@class, 'mob')] / span / font")->item(0)->nodeValue);
-        $this->abstract = trim($xpath->query("// body / div[contains(@class, 'mob')] / b[contains(.,'Аннотация:')] /  following-sibling::text()")->item(0)->nodeValue);
+        $this->title = new Title($this->title);
+        $this->abstract = trim($xpath->query("// body / div[contains(@class, 'mob')] / b[contains(.,'Аннотация:')] /  following-sibling::node()")->item(0)->nodeValue);
+        $this->abstract = new MyAbstract($this->abstract);
         $keys = $xpath->query("// body / div[contains(@class, 'mob')] / b[contains(., 'Ключевые')]  / following-sibling::i")->item(0)->nodeValue;
         $keys = $keys != "" ? explode(',', $keys) : [];
         foreach ($keys as $k) {
