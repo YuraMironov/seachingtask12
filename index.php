@@ -74,8 +74,15 @@ class Article
         $xpath = new DOMXPath($doc);
         $this->title = trim($xpath->query("// body / div[contains(@class, 'mob')] / span / font")->item(0)->nodeValue);
         $this->title = new Title($this->title);
-        $this->abstract = trim($xpath->query("// body / div[contains(@class, 'mob')] / b[contains(.,'Аннотация:')] /  following-sibling::node()")->item(0)->nodeValue);
-        $this->abstract = new MyAbstract($this->abstract);
+        $e = $xpath->query("// b[contains(.,'Аннотация:')] / following-sibling::node()[following-sibling::br[count(// b[contains(.,'Аннотация:')] / following-sibling::br)]]");
+        $abstract = "";
+        foreach ($e as $el) {
+            $abstract = $abstract . $el->nodeValue;
+        }
+        $abstract = preg_replace('/\t/', '', $abstract);
+        $abstract = preg_replace('/\n/', '', $abstract);
+
+        $this->abstract = new MyAbstract($abstract);
         $keys = $xpath->query("// body / div[contains(@class, 'mob')] / b[contains(., 'Ключевые')]  / following-sibling::i")->item(0)->nodeValue;
         $keys = $keys != "" ? explode(',', $keys) : [];
         foreach ($keys as $k) {
