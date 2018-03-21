@@ -13,6 +13,11 @@ class Keyword {
         $this->value = $value;
     }
 }
+function mystem($string)
+{
+    exec('echo ' . $string . ' | c:\mystem\mystem.exe -ld -e utf-8', $result);
+    return $result;
+}
 class StemAndPorter
 {
     public function __construct(string $value)
@@ -24,7 +29,7 @@ class StemAndPorter
     public $stem = '';
     public $porter = '';
     public function mystem($q) {
-        exec('echo ' . $q . ' | c:\mystem\mystem.exe -ld -e utf-8', $result);
+        $result = mystem($q);
         foreach ($result as $k => $v) {
 
             $this->stem .=  preg_replace(['/}{/', '/(}|{)/'], [' ', ''],   $v);
@@ -257,17 +262,12 @@ class SimpleTitle{
 };
 class Word {
     public $word;
-//    public $count;
     public $docs;
+    public $titles;
     public function __construct($word)
     {
         $this->word = $word;
         $this->docs = [];
-//        $this->count = 0;
+        $this->titles = [];
     }
-//    public function addDoc($docId)
-//    {
-//        $this->docs[] = $docId;
-//        $this->count++;
-//    }
 }

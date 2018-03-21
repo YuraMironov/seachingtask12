@@ -18,9 +18,9 @@ $i = 0;
 foreach ($articles[0] as $article) {
     $index->titles[] = new SimpleTitle($i, $article->title->title . '') ;
     $pattern = '/[\n\r\.,\(\)?;:\-&$\\\\0-9=_]/';
-    $article->abstract->abstract = implode(' ', explode(' ', $article->abstract->abstract));
-    $article->abstract->stem = implode(' ', explode(' ', $article->abstract->stem));
-    $article->abstract->porter = implode(' ', explode(' ', $article->abstract->porter));
+    $article->abstract->abstract = implode(' ', explode(' ', $article->abstract->abstract . ' ' . $article->title->title));
+    $article->abstract->stem = implode(' ', explode(' ', $article->abstract->stem . ' ' . $article->title->stem));
+    $article->abstract->porter = implode(' ', explode(' ', $article->abstract->porter . ' ' . $article->title->stem));
     $index->words = array_merge($index->words, explode(' ', preg_replace($pattern, '', trim($article->abstract->abstract))));
     $index->stemWords = array_merge($index->stemWords, explode(' ', preg_replace($pattern, '', trim($article->abstract->stem))));
     $index->porterWords = array_merge($index->porterWords, explode(' ', preg_replace($pattern, '', trim($article->abstract->porter))));
@@ -60,6 +60,13 @@ function findInDoc($arr, $type = 'abstract') {
             if (strpos($article->abstract->$type, $arr[$i]->word) !== false) {
 //                $arr[$i]->addDoc($j);
                 $arr[$i]->docs[] = $j;
+            }
+            if ($type === 'abstract') {
+                $type = 'title';
+            }
+            if (strpos($article->title->$type, $arr[$i]->word) !== false) {
+//                $arr[$i]->addDoc($j);
+                $arr[$i]->titles[] = $j;
             }
             $j++;
         }
