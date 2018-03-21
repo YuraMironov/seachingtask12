@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Created by PhpStorm.
+ * User: Yura
+ * Date: 20.03.2018
+ * Time: 20:44
+ */
 class Keyword {
     public $value = null;
     public function __construct(string $value)
@@ -19,10 +24,10 @@ class StemAndPorter
     public $stem = '';
     public $porter = '';
     public function mystem($q) {
-        exec('echo ' . $q . ' | c:\mystem\mystem.exe -ld -e cp866', $result);
+        exec('echo ' . $q . ' | c:\mystem\mystem.exe -ld -e utf-8', $result);
         foreach ($result as $k => $v) {
 
-            $this->stem .=  preg_replace(['/}{/', '/(}|{)/'], [' ', ''],  iconv("cp866", "utf-8", $v));
+            $this->stem .=  preg_replace(['/}{/', '/(}|{)/'], [' ', ''],   $v);
         }
 //        var_dump($q, $this->stem);
     }
@@ -57,8 +62,16 @@ class Title extends StemAndPorter
 }
 
 
+function myToLower($string)
+{
+    $string = mb_strtolower($string);
+    return $string;
+//    return strtr( $string, 'ЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮЁ', 'йцукенгшщзхъфывапролджэячсмитьбюё' );
+}
+
 class Article
 {
+    public $id;
     public $link;
     public $title;
     public $abstract;
@@ -73,7 +86,7 @@ class Article
         $doc->loadHTMLFile($this->link);
         $xpath = new DOMXPath($doc);
         $this->title = trim($xpath->query("// body / div[contains(@class, 'mob')] / span / font")->item(0)->nodeValue);
-        $this->title = new Title($this->title);
+        $this->title = new Title(myToLower($this->title));
         $e = $xpath->query("// b[contains(.,'Аннотация:')] / following-sibling::node()[following-sibling::br[count(// b[contains(.,'Аннотация:')] / following-sibling::br)]]");
         $abstract = "";
         foreach ($e as $el) {
@@ -82,11 +95,11 @@ class Article
         $abstract = preg_replace('/\t/', '', $abstract);
         $abstract = preg_replace('/\n/', '', $abstract);
 
-        $this->abstract = new MyAbstract($abstract);
+        $this->abstract = new MyAbstract(myToLower($abstract));
         $keys = $xpath->query("// body / div[contains(@class, 'mob')] / b[contains(., 'Ключевые')]  / following-sibling::i")->item(0)->nodeValue;
         $keys = $keys != "" ? explode(',', $keys) : [];
         foreach ($keys as $k) {
-            $this->keywords[] = new Keyword($k);
+            $this->keywords[] = new Keyword(myToLower($k));
         }
 
     }
@@ -107,7 +120,9 @@ class Issue
         for($i = 0; $i < $arts->length; $i++) {
 //        for($i = 0; $i < 1; $i++) {
             $a = $arts[$i]->getAttribute('href');
-            $this->articles[] = new Article($a);
+            $article = new Article($a);
+            $article->id = $i;
+            $this->articles[] = $article;
         }
     }
 }
@@ -128,18 +143,6 @@ class Journal {
         $this->issues[] = new Issue($xpath);
     }
 }
-//$url = 'http://m.mathnet.ru/php/archive.phtml?jrnid=tm&wshow=issue&series=0&year=2018&volume=300&issue=0&option_lang=rus&bookID=1686';
-
-$url = 'http://m.mathnet.ru/php/archive.phtml?jrnid=uzku&wshow=issue&bshow=contents&series=0&year=2014&volume=156&issue=1&option_lang=rus&bookID=1517';
-libxml_use_internal_errors(true);
-$doc = new DOMDocument();
-$doc->loadHTMLFile($url);
-$xpath = new DOMXPath($doc);
-
-echo "<pre>";
-$journal = new Journal($xpath);
-$journal->url = $url;
-//var_dump($journal);
 
 class XMLSerializer {
 
@@ -203,7 +206,7 @@ class XMLSerializer {
                 $xml .= self::SerializeNode($v, $level + 1) . PHP_EOL;
                 $xml .= $tab . '</' . $node_name . '>' . PHP_EOL;
             } else if (is_array($v)) {
-                $xml .= $tab . '<' . $k . '>' . PHP_EOL;
+                $xml .= $tab . '<' . $k . ' count="' . count($v) . '">' . PHP_EOL;
                 if (count($v) > 0) {
                     if (is_object(reset($v))) {
                         $xml .= self::SerializeNode($v, $level + 1, self::GetClassNameWithoutNamespace(reset($v)), true);
@@ -216,6 +219,7 @@ class XMLSerializer {
                 $xml .= $tab . '</' . $k . '>' . PHP_EOL;
             } else {
                 $node_name = ($parent_node_name ? $parent_node_name : $k);
+                $node_name = 'integer' == $node_name ? 'id' : $node_name;
                 if ($v === null) {
                     continue;
                 } else {
@@ -232,5 +236,38 @@ class XMLSerializer {
         return $xml;
     }
 }
-$xml = XMLSerializer::Serialize($journal);
-file_put_contents('journal.xml', $xml);
+
+
+class Index
+{
+    public $titles = [];
+    public $words = [];
+    public $stemWords = [];
+    public $porterWords = [];
+}
+
+class SimpleTitle{
+    public $id;
+    public $title;
+    public function __construct($id, $title)
+    {
+        $this->id = $id;
+        $this->title = $title;
+    }
+};
+class Word {
+    public $word;
+//    public $count;
+    public $docs;
+    public function __construct($word)
+    {
+        $this->word = $word;
+        $this->docs = [];
+//        $this->count = 0;
+    }
+//    public function addDoc($docId)
+//    {
+//        $this->docs[] = $docId;
+//        $this->count++;
+//    }
+}

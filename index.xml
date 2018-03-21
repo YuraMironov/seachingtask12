@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <titles count="1">
+        <SimpleTitle>
+            <id>0</id>
+            <title>решение задачи устойчивости тонкой оболочки при импульсном нагружении</title>
+
+        </SimpleTitle>
+    </titles>
+    <words count="65">
+        <Word>
+            <word>авторами</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>алгоритма</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>а м</word>
+            <docs count="0">
+            </docs>
+
+        </Word>
+        <Word>
+            <word>быть</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>выведена</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>вычислений</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>движения</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>действием</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>действия</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>дифференциальных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>для</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>зависимость</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>задача</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>задачи</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>значения</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульса</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульсной</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>интенсивностью</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>использована</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>которые</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>критического</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>круговой</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>ляпунова</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>математической</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>между</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>могут</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>модели</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>на</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нагрузки</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>начальными</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нелинейных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>новый</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>оболочки</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определения</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определяющая</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>осевой</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>основанный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>остроградского–гамильтона</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>под</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>подход</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>показано</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>помощью</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>постановке</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>построению</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>предложен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>приближенных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>принципе</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>разработанного</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>рассмотрена</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>решена</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>решены</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>сводится</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>системе</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>стационарности</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>также</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>теория</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>тонкой</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>указанной</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>уравнений</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>условиями</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>устойчивости</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>формула</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>цилиндрической</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>численно</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>что</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+    </words>
+    <stemWords count="62">
+        <Word>
+            <word>автор</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>алгоритм</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>быть</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>вывести</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>вычисление</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>гамильтон</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>движение</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>действие</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>дифференциальный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>для</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>зависимость</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>задача</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>значение</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульс</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульсный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>интенсивность</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>использовать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>который</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>критический</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>круговой</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>ляпунов</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>математический</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>между</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>модель</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>мочь</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>на</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нагрузка</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>начальный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нелинейный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>новый</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>оболочка</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определение</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определять</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>осевой</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>основывать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>остроградский</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>под</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>подход</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>показывать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>помощь</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>постановка</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>построение</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>предлагать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>приближенный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>принцип</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>разрабатывать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>рассматривать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>решать</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>сводиться</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>система</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>стационарность</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>также</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>теория</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>тонкий</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>указанный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>уравнение</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>условие</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>устойчивость</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>формула</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>цилиндрический</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>численный</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>что</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+    </stemWords>
+    <porterWords count="60">
+        <Word>
+            <word>автор</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>алгоритм</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>а м</word>
+            <docs count="0">
+            </docs>
+
+        </Word>
+        <Word>
+            <word>вывед</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>вычислен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>движен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>действ</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>дифференциальных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>дл</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>зависимост</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>задач</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>значен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульс</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>импульсн</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>интенсивн</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>использова</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>котор</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>критическ</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>кругов</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>ляпунов</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>математическ</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>между</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>могут</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>модел</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нагрузк</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>начальн</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нелинейных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>нов</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>оболочк</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>определя</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>осев</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>основа</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>остроградского–гамильтона</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>под</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>подход</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>показа</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>помощь</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>постановк</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>построени</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>предложен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>приближенных</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>принцип</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>разработа</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>рассмотр</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>реш</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>сводитс</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>системе</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>стационарност</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>также</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>теор</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>тонк</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>указанн</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>уравнен</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>услов</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>устойчивост</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>формул</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>цилиндрическ</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>численно</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+        <Word>
+            <word>что</word>
+            <docs count="1">
+                <id>0</id>
+            </docs>
+
+        </Word>
+    </porterWords>
+</Index>
