@@ -270,4 +270,24 @@ class Word {
         $this->docs = [];
         $this->titles = [];
     }
+//    }
+}
+
+class Idf{
+    public function __construct($a)
+    {
+        $this->values = $a;
+    }
+    public $values;
+}
+class WordTfIdfInfo {
+    public function __construct($a)
+    {
+        $this->word = $a;
+    }
+    public $word;
+    public $abstractTfIdf;
+    public $titleTfIdf;
+    public $fullTfIdf;
+    public $score;
 }

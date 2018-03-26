@@ -1,0 +1,5413 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Idf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <values count="676">
+        <WordTfIdfInfo>
+            <word>автор</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>алгоритм</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>быть</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вывести</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вычисление</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>гамильтон</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>движение</word>
+            <abstractTfIdf>0.0042254318794927</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003854779960239</fullTfIdf>
+            <score>0.0016901727517971</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>действие</word>
+            <abstractTfIdf>0.013782765147908</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01257375066125</fullTfIdf>
+            <score>0.0055131060591632</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>дифференциальный</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>для</word>
+            <abstractTfIdf>0.0033671874513612</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0030718201310663</fullTfIdf>
+            <score>0.0013468749805445</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0066388170565796</abstractTfIdf>
+            <titleTfIdf>0.035018749494156</titleTfIdf>
+            <fullTfIdf>0.007065875463728</fullTfIdf>
+            <score>0.023666776519125</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>зависимость</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>задача</word>
+            <abstractTfIdf>0.021327605555691</abstractTfIdf>
+            <titleTfIdf>0.071670378769122</titleTfIdf>
+            <fullTfIdf>0.024320953703858</fullTfIdf>
+            <score>0.05153326948375</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>значение</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>импульс</word>
+            <abstractTfIdf>0.019114666536831</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.026156912103032</fullTfIdf>
+            <score>0.067283626209644</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>импульсный</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.017437941402021</fullTfIdf>
+            <score>0.063460692902278</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>интенсивность</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использовать</word>
+            <abstractTfIdf>0.0042254318794927</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003854779960239</fullTfIdf>
+            <score>0.0016901727517971</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>который</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>критический</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>круг</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>круговой</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0046784435550942</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0042680537695596</fullTfIdf>
+            <score>0.0018713774220377</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>линейный</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ляпунов</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>математический</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>между</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>модель</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мочь</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0049086572982988</abstractTfIdf>
+            <titleTfIdf>0.035018749494156</titleTfIdf>
+            <fullTfIdf>0.0051177980854443</fullTfIdf>
+            <score>0.022974712615813</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нагружение</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.059637759594912</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нагрузка</word>
+            <abstractTfIdf>0.028671999805246</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026156912103032</fullTfIdf>
+            <score>0.011468799922098</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>начальный</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0010039774268034</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00091590923146979</fullTfIdf>
+            <score>0.00040159097072137</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нелинейный</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>новый</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>оболочка</word>
+            <abstractTfIdf>0.019114666536831</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.026156912103032</fullTfIdf>
+            <score>0.067283626209644</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>определение</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>определять</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>осевой</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>основывать</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>остроградский</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.00070123675689983</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00063972476068054</fullTfIdf>
+            <score>0.00028049470275993</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>подход</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>показывать</word>
+            <abstractTfIdf>0.0042254318794927</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003854779960239</fullTfIdf>
+            <score>0.0016901727517971</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>помощь</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>постановка</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>построение</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>предлагать</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.004146126928713</abstractTfIdf>
+            <titleTfIdf>0.071670378769122</titleTfIdf>
+            <fullTfIdf>0.0056736473761335</fullTfIdf>
+            <score>0.044660678032959</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>приближенный</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>принцип</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0026659506944613</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0024320953703858</fullTfIdf>
+            <score>0.0010663802777845</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>разрабатывать</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0020730634643565</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0018912157920445</fullTfIdf>
+            <score>0.0008292253857426</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>решать</word>
+            <abstractTfIdf>0.019114666536831</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.017437941402021</fullTfIdf>
+            <score>0.0076458666147323</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>решение</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.059637759594912</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сводиться</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>система</word>
+            <abstractTfIdf>0.0042254318794927</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003854779960239</fullTfIdf>
+            <score>0.0016901727517971</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стационарность</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0020730634643565</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0018912157920445</fullTfIdf>
+            <score>0.0008292253857426</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>также</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>теория</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0026772731381425</abstractTfIdf>
+            <titleTfIdf>0.070037498988312</titleTfIdf>
+            <fullTfIdf>0.003053030771566</fullTfIdf>
+            <score>0.043093408648244</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тонкий</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.017437941402021</fullTfIdf>
+            <score>0.063460692902278</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>указанный</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>уравнение</word>
+            <abstractTfIdf>0.0042254318794927</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003854779960239</fullTfIdf>
+            <score>0.0016901727517971</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>условие</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>устойчивость</word>
+            <abstractTfIdf>0.028671999805246</abstractTfIdf>
+            <titleTfIdf>0.09939626599152</titleTfIdf>
+            <fullTfIdf>0.034875882804042</fullTfIdf>
+            <score>0.07110655951701</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>формула</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>цилиндрический</word>
+            <abstractTfIdf>0.0095573332684154</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087189707010105</fullTfIdf>
+            <score>0.0038229333073662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>численный</word>
+            <abstractTfIdf>0.0068913825739541</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062868753306248</fullTfIdf>
+            <score>0.0027565530295816</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>что</word>
+            <abstractTfIdf>0.0053319013889227</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048641907407715</fullTfIdf>
+            <score>0.0021327605555691</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>близость</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.051411861719752</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вид</word>
+            <abstractTfIdf>0.012188839926721</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010180451529705</fullTfIdf>
+            <score>0.0048755359706886</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вопрос</word>
+            <abstractTfIdf>0.012188839926721</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010180451529705</fullTfIdf>
+            <score>0.0048755359706886</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>выбор</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>для</word>
+            <abstractTfIdf>0.0059555696418633</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.0099485083790216</fullTfIdf>
+            <score>0.053794089576497</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.0047152869425847</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039383362531815</fullTfIdf>
+            <score>0.0018861147770339</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>единица</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.037883182367866</titleTfIdf>
+            <fullTfIdf>0.0030624801177994</fullTfIdf>
+            <score>0.02272990942072</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>информационный</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>информация</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использование</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использовать</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исследовать</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.037883182367866</titleTfIdf>
+            <fullTfIdf>0.0023037790233418</fullTfIdf>
+            <score>0.02272990942072</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мера</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.051411861719752</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>метрика</word>
+            <abstractTfIdf>0.050712380607918</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.042356363348659</fullTfIdf>
+            <score>0.020284952243167</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>модификация</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0012402826992786</abstractTfIdf>
+            <titleTfIdf>0.030188577150134</titleTfIdf>
+            <fullTfIdf>0.0020718358726586</fullTfIdf>
+            <score>0.018609259369792</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0011838282583623</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00098876564760943</fullTfIdf>
+            <score>0.00047353130334492</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>несколько</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>новый</word>
+            <abstractTfIdf>0.012188839926721</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010180451529705</fullTfIdf>
+            <score>0.0048755359706886</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>основа</word>
+            <abstractTfIdf>0.012188839926721</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.02036090305941</fullTfIdf>
+            <score>0.05628739769044</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>особенность</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0012402826992786</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0010359179363293</fullTfIdf>
+            <score>0.00049611307971144</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>оценка</word>
+            <abstractTfIdf>0.012188839926721</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010180451529705</fullTfIdf>
+            <score>0.0048755359706886</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0.0047152869425847</abstractTfIdf>
+            <titleTfIdf>0.037883182367866</titleTfIdf>
+            <fullTfIdf>0.007876672506363</fullTfIdf>
+            <score>0.024616024197753</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>подход</word>
+            <abstractTfIdf>0.0094305738851693</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.015753345012726</fullTfIdf>
+            <score>0.055184091273819</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поиск</word>
+            <abstractTfIdf>0.067616507477225</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.070593938914432</fullTfIdf>
+            <score>0.078458464710642</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поисковый</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>полнотекстовый</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>предлагать</word>
+            <abstractTfIdf>0.024377679853443</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.02036090305941</fullTfIdf>
+            <score>0.0097510719413772</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>проводить</word>
+            <abstractTfIdf>0.024377679853443</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.02036090305941</fullTfIdf>
+            <score>0.0097510719413772</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ранжирование</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.028237575565773</fullTfIdf>
+            <score>0.058173512467474</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ранжировать</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0036666428621271</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0030624801177994</fullTfIdf>
+            <score>0.0014666571448508</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>результат</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.061784809283726</titleTfIdf>
+            <fullTfIdf>0.007876672506363</fullTfIdf>
+            <score>0.037070885570236</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>самый</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>семантический</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>система</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сравнение</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>статья</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>строка</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.051411861719752</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>существовать</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0073332857242542</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0061249602355987</fullTfIdf>
+            <score>0.0029333142897017</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>также</word>
+            <abstractTfIdf>0.0094305738851693</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.007876672506363</fullTfIdf>
+            <score>0.0037722295540677</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>такой</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>текст</word>
+            <abstractTfIdf>0.033808253738612</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.028237575565773</fullTfIdf>
+            <score>0.013523301495445</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>терминологический</word>
+            <abstractTfIdf>0.033808253738612</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.042356363348659</fullTfIdf>
+            <score>0.064935163215197</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.00059191412918115</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00049438282380471</fullTfIdf>
+            <score>0.00023676565167246</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>форма</word>
+            <abstractTfIdf>0.014947105968274</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.012484230553047</fullTfIdf>
+            <score>0.0059788423873094</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>экспериментальный</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффект</word>
+            <abstractTfIdf>0.0074735529841368</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0062421152765234</fullTfIdf>
+            <score>0.0029894211936547</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффективность</word>
+            <abstractTfIdf>0.016904126869306</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014118787782886</fullTfIdf>
+            <score>0.0067616507477225</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>lm</word>
+            <abstractTfIdf>0.0621226662447</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.056475151131545</fullTfIdf>
+            <score>0.02484906649788</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>sigma</word>
+            <abstractTfIdf>0.0828302216596</abstractTfIdf>
+            <titleTfIdf>0.207075554149</titleTfIdf>
+            <fullTfIdf>0.094125251885909</fullTfIdf>
+            <score>0.15737742115324</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>бесконечный</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>большой</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.017328679513999</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015753345012726</fullTfIdf>
+            <score>0.0069314718055995</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>доказывать</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исследовать</word>
+            <abstractTfIdf>0.0091551024055676</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0083228203686978</fullTfIdf>
+            <score>0.003662040962227</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>класс</word>
+            <abstractTfIdf>0.011552453009332</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010502230008484</fullTfIdf>
+            <score>0.004620981203733</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>кроме</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>множество</word>
+            <abstractTfIdf>0.059725315640935</abstractTfIdf>
+            <titleTfIdf>0.14931328910234</titleTfIdf>
+            <fullTfIdf>0.067869676864699</fullTfIdf>
+            <score>0.11347809971778</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>монотонный</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.207075554149</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.1242453324894</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0015193463066163</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0013812239151057</fullTfIdf>
+            <score>0.00060773852264652</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0021752844247407</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0019775312952189</fullTfIdf>
+            <score>0.0008701137698963</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>несравнимый</word>
+            <abstractTfIdf>0.0414151108298</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.037650100754364</fullTfIdf>
+            <score>0.01656604433192</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0060773852264652</abstractTfIdf>
+            <titleTfIdf>0.14931328910234</titleTfIdf>
+            <fullTfIdf>0.0069061195755286</fullTfIdf>
+            <score>0.092018927551989</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>относительно</word>
+            <abstractTfIdf>0.0621226662447</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.056475151131545</fullTfIdf>
+            <score>0.02484906649788</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отсутствие</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>показывать</word>
+            <abstractTfIdf>0.0091551024055676</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0083228203686978</fullTfIdf>
+            <score>0.003662040962227</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>последовательность</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>построить</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>предельно</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.207075554149</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.1242453324894</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0044916375061057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0040833068237325</fullTfIdf>
+            <score>0.0017966550024423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>принадлежать</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>равномерный</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0044916375061057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0040833068237325</fullTfIdf>
+            <score>0.0017966550024423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сводимость</word>
+            <abstractTfIdf>0.0828302216596</abstractTfIdf>
+            <titleTfIdf>0.207075554149</titleTfIdf>
+            <fullTfIdf>0.094125251885909</fullTfIdf>
+            <score>0.15737742115324</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>свойство</word>
+            <abstractTfIdf>0.014931328910234</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01357393537294</fullTfIdf>
+            <score>0.0059725315640935</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>существование</word>
+            <abstractTfIdf>0.0207075554149</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018825050377182</fullTfIdf>
+            <score>0.00828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0044916375061057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0040833068237325</fullTfIdf>
+            <score>0.0017966550024423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>также</word>
+            <abstractTfIdf>0.011552453009332</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010502230008484</fullTfIdf>
+            <score>0.004620981203733</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.00072509480824691</abstractTfIdf>
+            <titleTfIdf>0.072955728112825</titleTfIdf>
+            <fullTfIdf>0.0013183541968126</fullTfIdf>
+            <score>0.044063474790994</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>частность</word>
+            <abstractTfIdf>0.014931328910234</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01357393537294</fullTfIdf>
+            <score>0.0059725315640935</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>mathcal</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.029938634334795</fullTfIdf>
+            <score>0.013078456051516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>бифуркация</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>весь</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>возникать</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>выход</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0.11832888808514</titleTfIdf>
+            <fullTfIdf>0.03991817911306</fullTfIdf>
+            <score>0.084075788902602</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>гахов</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0.11832888808514</titleTfIdf>
+            <fullTfIdf>0.03991817911306</fullTfIdf>
+            <score>0.084075788902602</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>голоморфный</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>давать</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>два</word>
+            <abstractTfIdf>0.015717188326562</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014391642323117</fullTfIdf>
+            <score>0.0062868753306248</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>для</word>
+            <abstractTfIdf>0.0038397751638329</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035159387042325</fullTfIdf>
+            <score>0.0015359100655332</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>единичный</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>единственность</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0025235269513314</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0023106993771227</fullTfIdf>
+            <score>0.0010094107805326</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>затем</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>значение</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.0070920592201669</abstractTfIdf>
+            <titleTfIdf>0.052314870888958</titleTfIdf>
+            <fullTfIdf>0.0086585783250231</fullTfIdf>
+            <score>0.034225746221441</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>известный</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>иметь</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>класс</word>
+            <abstractTfIdf>0.012160476851929</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011134894466826</fullTfIdf>
+            <score>0.0048641907407715</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>контролировать</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.11832888808514</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.070997332851086</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>корень</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.029938634334795</fullTfIdf>
+            <score>0.013078456051516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>который</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>круг</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0053350672119495</abstractTfIdf>
+            <titleTfIdf>0.052314870888958</titleTfIdf>
+            <fullTfIdf>0.006513495712581</fullTfIdf>
+            <score>0.033522949418154</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>локально</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>максимум</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.029938634334795</fullTfIdf>
+            <score>0.013078456051516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>много</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>множество</word>
+            <abstractTfIdf>0.015717188326562</abstractTfIdf>
+            <titleTfIdf>0.08532187948705</titleTfIdf>
+            <fullTfIdf>0.021587463484675</fullTfIdf>
+            <score>0.057480003022855</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мочь</word>
+            <abstractTfIdf>0.0060802384259644</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0055674472334132</fullTfIdf>
+            <score>0.0024320953703858</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0015993119017014</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0014644301750518</fullTfIdf>
+            <score>0.00063972476068054</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>наличие</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0019081442322287</abstractTfIdf>
+            <titleTfIdf>0.052314870888958</titleTfIdf>
+            <fullTfIdf>0.0020966596864971</fullTfIdf>
+            <score>0.032152180226266</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ненулевой</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>неулучшать</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ноль</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нулевой</word>
+            <abstractTfIdf>0.021797426752526</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01995908955653</fullTfIdf>
+            <score>0.0087189707010105</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>один</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>однолистный</word>
+            <abstractTfIdf>0.021797426752526</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01995908955653</fullTfIdf>
+            <score>0.0087189707010105</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описание</word>
+            <abstractTfIdf>0.0060802384259644</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0055674472334132</fullTfIdf>
+            <score>0.0024320953703858</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>осуществляться</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.002398967852552</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021966452625778</fullTfIdf>
+            <score>0.00095958714102081</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отвечать</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пар</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пара</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>параметр</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>переходить</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0.0030401192129822</abstractTfIdf>
+            <titleTfIdf>0.052314870888958</titleTfIdf>
+            <fullTfIdf>0.0055674472334132</fullTfIdf>
+            <score>0.032604970218567</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>подкласс</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>подчиненность</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.11832888808514</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.070997332851086</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>показывать</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>полуседло</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>постоянный</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>представлять</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0047280394801113</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0043292891625115</fullTfIdf>
+            <score>0.0018912157920445</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>происходить</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>распадаться</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ряд</word>
+            <abstractTfIdf>0.0060802384259644</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0055674472334132</fullTfIdf>
+            <score>0.0024320953703858</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>себя</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>седло</word>
+            <abstractTfIdf>0.032696140128789</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.029938634334795</fullTfIdf>
+            <score>0.013078456051516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>соответствующий</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>счет</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0023640197400556</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021646445812558</fullTfIdf>
+            <score>0.00094560789602226</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>такой</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тип</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0019081442322287</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017472164054143</fullTfIdf>
+            <score>0.00076325769289149</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>только</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>траектория</word>
+            <abstractTfIdf>0.010898713376263</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0099795447782651</fullTfIdf>
+            <score>0.0043594853505053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>уравнение</word>
+            <abstractTfIdf>0.0096369499005975</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088241950897037</fullTfIdf>
+            <score>0.003854779960239</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>условие</word>
+            <abstractTfIdf>0.0060802384259644</abstractTfIdf>
+            <titleTfIdf>0.11832888808514</titleTfIdf>
+            <fullTfIdf>0.011134894466826</fullTfIdf>
+            <score>0.073429428221471</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>функция</word>
+            <abstractTfIdf>0.012160476851929</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011134894466826</fullTfIdf>
+            <score>0.0048641907407715</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>что</word>
+            <abstractTfIdf>0.0060802384259644</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0055674472334132</fullTfIdf>
+            <score>0.0024320953703858</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффект</word>
+            <abstractTfIdf>0.0048184749502987</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044120975448518</fullTfIdf>
+            <score>0.0019273899801195</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффективный</word>
+            <abstractTfIdf>0.0078585941632809</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071958211615585</fullTfIdf>
+            <score>0.0031434376653124</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>алгебра</word>
+            <abstractTfIdf>0.024544650263398</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019266230851915</fullTfIdf>
+            <score>0.0098178601053592</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>алгебраический</word>
+            <abstractTfIdf>0.024544650263398</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019266230851915</fullTfIdf>
+            <score>0.0098178601053592</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>второй</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.053438852683613</fullTfIdf>
+            <score>0.088163126341793</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>гельдеровский</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.07454719949364</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.0094951668569856</abstractTfIdf>
+            <titleTfIdf>0.089587973461403</titleTfIdf>
+            <fullTfIdf>0.014906390979784</fullTfIdf>
+            <score>0.057550850819636</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ее</word>
+            <abstractTfIdf>0.015049483406412</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011813035362023</fullTfIdf>
+            <score>0.006019793362565</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0078817006151173</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0061867112355222</fullTfIdf>
+            <score>0.0031526802460469</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>зависеть</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>индекс</word>
+            <abstractTfIdf>0.10211945136115</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.10687770536723</fullTfIdf>
+            <score>0.1153949800381</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>коши</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.011108633098854</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0087196797442616</fullTfIdf>
+            <score>0.0044434532395415</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>линейно</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>линейный</word>
+            <abstractTfIdf>0.018990333713971</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014906390979784</fullTfIdf>
+            <score>0.0075961334855884</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>матрица</word>
+            <abstractTfIdf>0.068079634240767</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.080158279025419</fullTfIdf>
+            <score>0.10177905318995</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0035758100132725</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028068186125687</fullTfIdf>
+            <score>0.001430324005309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>независимый</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>определенный</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0024975555725199</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0019604468472468</fullTfIdf>
+            <score>0.00099902222900797</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>оценка</word>
+            <abstractTfIdf>0.024544650263398</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.038532461703829</fullTfIdf>
+            <score>0.084365059598999</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>получать</word>
+            <abstractTfIdf>0.024544650263398</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019266230851915</fullTfIdf>
+            <score>0.0098178601053592</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>порядок</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.053438852683613</fullTfIdf>
+            <score>0.088163126341793</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>решение</word>
+            <abstractTfIdf>0.018990333713971</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.014906390979784</fullTfIdf>
+            <score>0.0075961334855884</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ряд</word>
+            <abstractTfIdf>0.018990333713971</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.029812781959568</fullTfIdf>
+            <score>0.082143332979228</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>система</word>
+            <abstractTfIdf>0.015049483406412</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011813035362023</fullTfIdf>
+            <score>0.006019793362565</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>суммарный</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0011919366710908</abstractTfIdf>
+            <titleTfIdf>0.043773436867695</titleTfIdf>
+            <fullTfIdf>0.0018712124083791</fullTfIdf>
+            <score>0.026740836789053</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>функция</word>
+            <abstractTfIdf>0.037980667427942</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.044719172939351</fullTfIdf>
+            <score>0.089739466464817</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>частный</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0.1242453324894</titleTfIdf>
+            <fullTfIdf>0.053438852683613</fullTfIdf>
+            <score>0.088163126341793</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>число</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>элемент</word>
+            <abstractTfIdf>0.034039817120384</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.026719426341806</fullTfIdf>
+            <score>0.013615926848153</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ii</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.040721806118819</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.024433083671292</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>алгебра</word>
+            <abstractTfIdf>0.030240666147309</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.025505472871574</fullTfIdf>
+            <score>0.012096266458924</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>алгебраический</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>аффинный</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>весь</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вместе</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>голономия</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>группа</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.02652925248884</fullTfIdf>
+            <score>0.042272961226735</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>для</word>
+            <abstractTfIdf>0.0036939609171051</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003115547108021</fullTfIdf>
+            <score>0.001477584366842</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.0058493432958645</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0049334318901064</fullTfIdf>
+            <score>0.0023397373183458</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>допускать</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0012138484069695</abstractTfIdf>
+            <titleTfIdf>0.019897016758043</titleTfIdf>
+            <fullTfIdf>0.0020475592345322</fullTfIdf>
+            <score>0.012423749417614</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.0045484936770691</abstractTfIdf>
+            <titleTfIdf>0.024968461106093</titleTfIdf>
+            <fullTfIdf>0.0057544110398508</fullTfIdf>
+            <score>0.016800474134484</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>инвариантный</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.0083878705478076</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использовать</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исследовать</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>их</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>класс</word>
+            <abstractTfIdf>0.011698686591729</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0098668637802127</fullTfIdf>
+            <score>0.0046794746366916</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>классификация</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.0083878705478076</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>когда</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>кривизна</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>кручение</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0085541162048136</abstractTfIdf>
+            <titleTfIdf>0.024968461106093</titleTfIdf>
+            <fullTfIdf>0.0086576179667224</fullTfIdf>
+            <score>0.018402723145581</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>локальный</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.0083878705478076</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>метод</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0023078678075184</abstractTfIdf>
+            <titleTfIdf>0.019897016758043</titleTfIdf>
+            <fullTfIdf>0.0025953246518712</fullTfIdf>
+            <score>0.012861357177833</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>находить</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.00036713661177059</abstractTfIdf>
+            <titleTfIdf>0.024968461106093</titleTfIdf>
+            <fullTfIdf>0.00061929805686569</fullTfIdf>
+            <score>0.015127931308364</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>неразрешимый</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.038079025952831</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нормальный</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.02652925248884</fullTfIdf>
+            <score>0.042272961226735</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>однородный</word>
+            <abstractTfIdf>0.037800832684136</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.038258209307361</fullTfIdf>
+            <score>0.049005423752582</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описание</word>
+            <abstractTfIdf>0.011698686591729</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0098668637802127</fullTfIdf>
+            <score>0.0046794746366916</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описывать</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0007692892691728</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00064883116296781</fullTfIdf>
+            <score>0.00030771570766912</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пар</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пара</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0.0029246716479323</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0024667159450532</fullTfIdf>
+            <score>0.0011698686591729</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>подход</word>
+            <abstractTfIdf>0.0058493432958645</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0049334318901064</fullTfIdf>
+            <score>0.0023397373183458</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>представлять</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>преобразование</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.012752736435787</fullTfIdf>
+            <score>0.036909157293658</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пространство</word>
+            <abstractTfIdf>0.037800832684136</abstractTfIdf>
+            <titleTfIdf>0.040721806118819</titleTfIdf>
+            <fullTfIdf>0.038258209307361</fullTfIdf>
+            <score>0.039553416744946</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>работа</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0087740149437968</abstractTfIdf>
+            <titleTfIdf>0.12216541835646</titleTfIdf>
+            <fullTfIdf>0.014800295670319</fullTfIdf>
+            <score>0.076808856991394</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>разрешимый</word>
+            <abstractTfIdf>0.020969676369519</abstractTfIdf>
+            <titleTfIdf>0.11295030226309</titleTfIdf>
+            <fullTfIdf>0.035372336651786</fullTfIdf>
+            <score>0.076158051905662</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0022742468385345</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0019181370132836</fullTfIdf>
+            <score>0.00090969873541382</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рост</word>
+            <abstractTfIdf>0.023177474444475</abstractTfIdf>
+            <titleTfIdf>0.040721806118819</titleTfIdf>
+            <fullTfIdf>0.023457913637041</fullTfIdf>
+            <score>0.033704073449082</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>связность</word>
+            <abstractTfIdf>0.041939352739038</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.044215420814733</fullTfIdf>
+            <score>0.050660831774542</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>случай</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стабилизатор</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.038079025952831</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>статья</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0022742468385345</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0019181370132836</fullTfIdf>
+            <score>0.00090969873541382</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>такой</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тензор</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>теория</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0011014098353118</abstractTfIdf>
+            <titleTfIdf>0.019897016758043</titleTfIdf>
+            <fullTfIdf>0.0012385961137314</fullTfIdf>
+            <score>0.012378773988951</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>только</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>трехмерный</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0.056475151131545</titleTfIdf>
+            <fullTfIdf>0.017686168325893</fullTfIdf>
+            <score>0.038079025952831</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эквивалентный</word>
+            <abstractTfIdf>0.010484838184759</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088430841629466</fullTfIdf>
+            <score>0.0041939352739038</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффект</word>
+            <abstractTfIdf>0.004635494888895</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039096522728402</fullTfIdf>
+            <score>0.001854197955558</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффективный</word>
+            <abstractTfIdf>0.0075601665368272</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0063763682178934</fullTfIdf>
+            <score>0.0030240666147309</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>авиационный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>анализ</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>включать</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>внешний</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>воздействие</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>возмущение</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.068913825739541</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.041348295443724</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>время</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>геометрически</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>граница</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>движение</word>
+            <abstractTfIdf>0.0038279173821188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035099434142751</fullTfIdf>
+            <score>0.0015311669528475</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>действие</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.011448942295387</fullTfIdf>
+            <score>0.059841225351577</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>диффузионный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.060807284139814</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>диффузия</word>
+            <abstractTfIdf>0.017316422646606</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.0069265690586425</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>для</word>
+            <abstractTfIdf>0.012201654876013</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011188098879922</fullTfIdf>
+            <score>0.004880661950405</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0040095062362618</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0036764482102464</fullTfIdf>
+            <score>0.0016038024945047</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>задача</word>
+            <abstractTfIdf>0.014490881823553</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.01328716640051</fullTfIdf>
+            <score>0.0057963527294211</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.0018780365879188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017220335486667</fullTfIdf>
+            <score>0.00075121463516751</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>интегральный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использовать</word>
+            <abstractTfIdf>0.0038279173821188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035099434142751</fullTfIdf>
+            <score>0.0015311669528475</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>использоваться</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>когда</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>конструкция</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>координата</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>космический</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>лаплас</word>
+            <abstractTfIdf>0.017316422646606</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.0069265690586425</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0028255408230534</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0025908313617135</fullTfIdf>
+            <score>0.0011302163292214</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>линейный</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>локально</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>массоперенос</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мир</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>много</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>многофакторный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>модель</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.003176333742055</abstractTfIdf>
+            <titleTfIdf>0.033671874513612</titleTfIdf>
+            <fullTfIdf>0.0034949819193729</fullTfIdf>
+            <score>0.021473658204989</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.001515877647903</abstractTfIdf>
+            <titleTfIdf>0.042254318794927</titleTfIdf>
+            <fullTfIdf>0.001667949718651</fullTfIdf>
+            <score>0.025958942336118</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нестационарный</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.057343999610492</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>обратный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>обращение</word>
+            <abstractTfIdf>0.017316422646606</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.0069265690586425</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>однокомпонентный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>одномерный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.060807284139814</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>основа</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>осуществляться</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.001270533496822</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0011649939731243</fullTfIdf>
+            <score>0.00050821339872879</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.042254318794927</titleTfIdf>
+            <fullTfIdf>0.0022145277334184</fullTfIdf>
+            <score>0.025352591276956</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>полупространство</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.060807284139814</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>получать</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>постоянный</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>построение</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поток</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>представлять</word>
+            <abstractTfIdf>0.0038279173821188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035099434142751</fullTfIdf>
+            <score>0.0015311669528475</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>преобразование</word>
+            <abstractTfIdf>0.012486128705422</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011448942295387</fullTfIdf>
+            <score>0.0049944514821688</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0037560731758375</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0034440670973335</fullTfIdf>
+            <score>0.001502429270335</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>применяться</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пример</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пространственный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пространство</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0.068913825739541</titleTfIdf>
+            <fullTfIdf>0.011448942295387</fullTfIdf>
+            <score>0.043845521184809</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>работа</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>работать</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>равновесный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0037560731758375</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0034440670973335</fullTfIdf>
+            <score>0.001502429270335</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматриваться</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рациональный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>результат</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>решение</word>
+            <abstractTfIdf>0.0096605878823686</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0088581109336734</fullTfIdf>
+            <score>0.0038642351529474</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рост</word>
+            <abstractTfIdf>0.0076558347642377</abstractTfIdf>
+            <titleTfIdf>0.068913825739541</titleTfIdf>
+            <fullTfIdf>0.010529830242825</fullTfIdf>
+            <score>0.044410629349419</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сводиться</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>связанный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>себя</word>
+            <abstractTfIdf>0.012486128705422</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011448942295387</fullTfIdf>
+            <score>0.0049944514821688</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>система</word>
+            <abstractTfIdf>0.0038279173821188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035099434142751</fullTfIdf>
+            <score>0.0015311669528475</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>случай</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>состояние</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стационарный</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.057343999610492</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>строиться</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тело</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>теоретический</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0012127021183224</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0011119664791007</fullTfIdf>
+            <score>0.00048508084732895</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>трансформант</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>упругий</word>
+            <abstractTfIdf>0.018729193058133</abstractTfIdf>
+            <titleTfIdf>0.095573332684154</titleTfIdf>
+            <fullTfIdf>0.022897884590774</fullTfIdf>
+            <score>0.064835676833746</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>уравнение</word>
+            <abstractTfIdf>0.0076558347642377</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0070198868285502</fullTfIdf>
+            <score>0.0030623339056951</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>условие</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>фактор</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>форма</word>
+            <abstractTfIdf>0.0038279173821188</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0035099434142751</fullTfIdf>
+            <score>0.0015311669528475</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>фундаментальный</word>
+            <abstractTfIdf>0.0086582113233031</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079389988811118</fullTfIdf>
+            <score>0.0034632845293213</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>функция</word>
+            <abstractTfIdf>0.0048302939411843</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0044290554668367</fullTfIdf>
+            <score>0.0019321175764737</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>фурье</word>
+            <abstractTfIdf>0.017316422646606</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015877997762224</fullTfIdf>
+            <score>0.0069265690586425</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>численный</word>
+            <abstractTfIdf>0.006243064352711</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0057244711476935</fullTfIdf>
+            <score>0.0024972257410844</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>circ</word>
+            <abstractTfIdf>0.01640202409101</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015652955274255</fullTfIdf>
+            <score>0.006560809636404</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>dots</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>infty</word>
+            <abstractTfIdf>0.012301518068257</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011739716455691</fullTfIdf>
+            <score>0.004920607227303</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>leq</word>
+            <abstractTfIdf>0.01640202409101</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015652955274255</fullTfIdf>
+            <score>0.006560809636404</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>амплитуда</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ацетон</word>
+            <abstractTfIdf>0.01640202409101</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015652955274255</fullTfIdf>
+            <score>0.006560809636404</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>бар</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>важный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>взрывной</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.051411861719752</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вид</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>влияние</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вода</word>
+            <abstractTfIdf>0.01640202409101</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015652955274255</fullTfIdf>
+            <score>0.006560809636404</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>возмущение</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0.061784809283726</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.038253565087878</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>возникать</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>возрастать</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>волна</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>высокоскоростной</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вязкость</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>газовый</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>гармоника</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>давление</word>
+            <abstractTfIdf>0.012301518068257</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011739716455691</fullTfIdf>
+            <score>0.004920607227303</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>движение</word>
+            <abstractTfIdf>0.0054386746963768</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0051902942771722</fullTfIdf>
+            <score>0.0021754698785507</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>диапазон</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>динамика</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.0034314216859403</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0032747110892596</fullTfIdf>
+            <score>0.0013725686743761</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>его</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.011739716455691</fullTfIdf>
+            <score>0.054692266537954</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ее</word>
+            <abstractTfIdf>0.0018128915654589</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017300980923907</fullTfIdf>
+            <score>0.00072515662618357</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>жидкость</word>
+            <abstractTfIdf>0.045105566250277</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.043045627004202</fullTfIdf>
+            <score>0.018042226500111</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.00047472289183462</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00045304263378233</fullTfIdf>
+            <score>0.00018988915673385</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>зависимость</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.0017788663390518</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0016976267739612</fullTfIdf>
+            <score>0.00071154653562071</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>изменяться</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>изучать</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>испарение</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исследовать</word>
+            <abstractTfIdf>0.0018128915654589</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017300980923907</fullTfIdf>
+            <score>0.00072515662618357</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>кавитационный</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.011739716455691</fullTfIdf>
+            <score>0.054692266537954</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>как</word>
+            <abstractTfIdf>0.0088700963823171</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0084650053664318</fullTfIdf>
+            <score>0.0035480385529268</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>коллапс</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.053052064128853</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>конденсация</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0033454216840608</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003192638646521</fullTfIdf>
+            <score>0.0013381686736243</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>малый</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>межфазный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мкм</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мочь</word>
+            <abstractTfIdf>0.0045752289145871</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0043662814523461</fullTfIdf>
+            <score>0.0018300915658348</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.004212049166857</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0040196878663234</fullTfIdf>
+            <score>0.0016848196667428</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>наличие</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>насыщение</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>натяжение</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>находить</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>находиться</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>начало</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>начальный</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0015794144338052</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0015072836958833</fullTfIdf>
+            <score>0.00063176577352206</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>неоднородность</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>неравновесность</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>нестационарный</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>несферический</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>несферичность</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>однократный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>окружающий</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описание</word>
+            <abstractTfIdf>0.0022876144572935</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021831407261731</fullTfIdf>
+            <score>0.00091504578291742</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описывать</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>описываться</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0027077458929795</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0025840850569222</fullTfIdf>
+            <score>0.0010830983571918</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отдельный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отклонение</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отношение</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пар</word>
+            <abstractTfIdf>0.01631602408913</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015570882831517</fullTfIdf>
+            <score>0.0065264096356521</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пара</word>
+            <abstractTfIdf>0.0090644578272946</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0086504904619536</fullTfIdf>
+            <score>0.0036257831309179</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>плотность</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поверхностный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поверхность</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>полость</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>представлять</word>
+            <abstractTfIdf>0.0018128915654589</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017300980923907</fullTfIdf>
+            <score>0.00072515662618357</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>представляться</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0071154653562071</abstractTfIdf>
+            <titleTfIdf>0.061784809283726</titleTfIdf>
+            <fullTfIdf>0.0076393204828255</fullTfIdf>
+            <score>0.039917071712718</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>применяться</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>приниматься</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пузырек</word>
+            <abstractTfIdf>0.045105566250277</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.046958865822765</fullTfIdf>
+            <score>0.069454088219863</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>радиус</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0022876144572935</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021831407261731</fullTfIdf>
+            <score>0.00091504578291742</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.00088943316952589</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00084881338698061</fullTfIdf>
+            <score>0.00035577326781035</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматриваться</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>реалистичный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рост</word>
+            <abstractTfIdf>0.0054386746963768</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0051902942771722</fullTfIdf>
+            <score>0.0021754698785507</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ряд</word>
+            <abstractTfIdf>0.0022876144572935</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021831407261731</fullTfIdf>
+            <score>0.00091504578291742</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сжатие</word>
+            <abstractTfIdf>0.01640202409101</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015652955274255</fullTfIdf>
+            <score>0.006560809636404</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сжимаемость</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сильный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>составлять</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>составляющая</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>состояние</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стадия</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>становиться</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стационарный</word>
+            <abstractTfIdf>0.0022876144572935</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021831407261731</fullTfIdf>
+            <score>0.00091504578291742</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>степень</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>суперпозиция</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>существенный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сферический</word>
+            <abstractTfIdf>0.028703542159267</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.03130591054851</fullTfIdf>
+            <score>0.062893278583459</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>сферичность</word>
+            <abstractTfIdf>0.012301518068257</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011739716455691</fullTfIdf>
+            <score>0.004920607227303</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0017788663390518</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0016976267739612</fullTfIdf>
+            <score>0.00071154653562071</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>такой</word>
+            <abstractTfIdf>0.0018128915654589</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0017300980923907</fullTfIdf>
+            <score>0.00072515662618357</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>температура</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>теплопроводность</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0014358313034592</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0013702579053485</fullTfIdf>
+            <score>0.00057433252138369</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ударный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>уравнение</word>
+            <abstractTfIdf>0.0036257831309179</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0034601961847814</fullTfIdf>
+            <score>0.0014503132523671</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>устанавливать</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>учитываться</word>
+            <abstractTfIdf>0.008201012045505</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0078264776371276</fullTfIdf>
+            <score>0.003280404818202</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>фактор</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>финальный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>форма</word>
+            <abstractTfIdf>0.0018128915654589</abstractTfIdf>
+            <titleTfIdf>0.061784809283726</titleTfIdf>
+            <fullTfIdf>0.0034601961847814</fullTfIdf>
+            <score>0.037796042196419</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>частность</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>что</word>
+            <abstractTfIdf>0.0022876144572935</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0021831407261731</fullTfIdf>
+            <score>0.00091504578291742</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>широкодиапазонный</word>
+            <abstractTfIdf>0.0041005060227525</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0039132388185638</fullTfIdf>
+            <score>0.001640202409101</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эволюция</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.085686436199586</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.051411861719752</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>это</word>
+            <abstractTfIdf>0.0059133975882114</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0056433369109545</fullTfIdf>
+            <score>0.0023653590352846</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>этот</word>
+            <abstractTfIdf>0.0029566987941057</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0028216684554773</fullTfIdf>
+            <score>0.0011826795176423</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>близкий</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.036813431848711</fullTfIdf>
+            <score>0.052538026309803</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вращение</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>глобальный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>движение</word>
+            <abstractTfIdf>0.010986122886681</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.016275737609898</fullTfIdf>
+            <score>0.046992848865324</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>деформировать</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.042598399710651</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.025013392495826</titleTfIdf>
+            <fullTfIdf>0.0021309783144576</fullTfIdf>
+            <score>0.015008035497495</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>задача</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.05119312769223</titleTfIdf>
+            <fullTfIdf>0.010268847119407</fullTfIdf>
+            <score>0.030715876615338</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.010779930014654</abstractTfIdf>
+            <titleTfIdf>0.031388922533375</titleTfIdf>
+            <fullTfIdf>0.011977700016282</fullTfIdf>
+            <score>0.023145325525886</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>изучать</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>кубический</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ли</word>
+            <abstractTfIdf>0.0081093021621633</abstractTfIdf>
+            <titleTfIdf>0.031388922533375</titleTfIdf>
+            <fullTfIdf>0.009010335735737</fullTfIdf>
+            <score>0.02207707438489</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>малый</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мир</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.010268847119407</fullTfIdf>
+            <score>0.042598399710651</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0036464311358791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0027010601006512</fullTfIdf>
+            <score>0.0014585724543516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0008701137698963</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0006445287184417</fullTfIdf>
+            <score>0.00034804550795852</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>однородный</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ось</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0036464311358791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0027010601006512</fullTfIdf>
+            <score>0.0014585724543516</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отклонение</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>перемещение</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>положение</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>полюс</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0053899650073269</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.003992566672094</fullTfIdf>
+            <score>0.0021559860029307</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пример</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>продемонстрировать</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>свободный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.036813431848711</fullTfIdf>
+            <score>0.052538026309803</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>симметрия</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>стационарный</word>
+            <abstractTfIdf>0.013862943611199</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.010268847119407</fullTfIdf>
+            <score>0.0055451774444796</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>твердый</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.042598399710651</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тело</word>
+            <abstractTfIdf>0.053752784076842</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.053089169458609</fullTfIdf>
+            <score>0.064099513341388</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0008701137698963</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0006445287184417</fullTfIdf>
+            <score>0.00034804550795852</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>угловой</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.036813431848711</fullTfIdf>
+            <score>0.052538026309803</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>упругий</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013272292364652</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>устойчивый</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>форма</word>
+            <abstractTfIdf>0.021972245773362</abstractTfIdf>
+            <titleTfIdf>0.05119312769223</titleTfIdf>
+            <fullTfIdf>0.024413606414847</fullTfIdf>
+            <score>0.039504774924683</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>шар</word>
+            <abstractTfIdf>0.04969813299576</abstractTfIdf>
+            <titleTfIdf>0.070997332851086</titleTfIdf>
+            <fullTfIdf>0.055220147773067</fullTfIdf>
+            <score>0.062477652908955</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>шаровой</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эллипсоидальный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.018406715924356</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эффект</word>
+            <abstractTfIdf>0.010986122886681</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.008137868804949</fullTfIdf>
+            <score>0.0043944491546724</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ii</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.063991409615288</titleTfIdf>
+            <fullTfIdf>0.013998120853344</fullTfIdf>
+            <score>0.038394845769173</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>вопрос</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013998120853344</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>геометрически</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013998120853344</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>геометрический</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>гравитационный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>динамический</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>до</word>
+            <abstractTfIdf>0.0069314718055995</abstractTfIdf>
+            <titleTfIdf>0.063991409615288</titleTfIdf>
+            <fullTfIdf>0.010830424696249</fullTfIdf>
+            <score>0.041167434491412</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ее</word>
+            <abstractTfIdf>0.010986122886681</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0085829085052196</fullTfIdf>
+            <score>0.0043944491546724</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>естественный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0028768207245178</abstractTfIdf>
+            <titleTfIdf>0.031266740619782</titleTfIdf>
+            <fullTfIdf>0.0044950323820591</fullTfIdf>
+            <score>0.019910772661676</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>из</word>
+            <abstractTfIdf>0.0053899650073269</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0042109101619741</fullTfIdf>
+            <score>0.0021559860029307</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>изучение</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исследование</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.038826666402938</fullTfIdf>
+            <score>0.063187626237466</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>казанский</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.027996241706688</fullTfIdf>
+            <score>0.060415037515227</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>луна</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>лунный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.038826666402938</fullTfIdf>
+            <score>0.063187626237466</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>морфология</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.0091160778396977</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0071219358122639</fullTfIdf>
+            <score>0.0036464311358791</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>наблюдение</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>наш</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>объект</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>перспектива</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.053247999638314</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поверхность</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013998120853344</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>позиционный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>поле</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0069314718055995</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0054152123481246</fullTfIdf>
+            <score>0.0027725887222398</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>развитие</word>
+            <abstractTfIdf>0.017917594692281</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.013998120853344</fullTfIdf>
+            <score>0.0071670378769122</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рассматривать</word>
+            <abstractTfIdf>0.0053899650073269</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0042109101619741</fullTfIdf>
+            <score>0.0021559860029307</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>результат</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.063991409615288</titleTfIdf>
+            <fullTfIdf>0.010830424696249</fullTfIdf>
+            <score>0.038394845769173</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>связывать</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>селенографический</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>селенография</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.053247999638314</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>современный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>спутник</word>
+            <abstractTfIdf>0.04969813299576</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.038826666402938</fullTfIdf>
+            <score>0.019879253198304</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>спутниковый</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>статья</word>
+            <abstractTfIdf>0.010986122886681</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0085829085052196</fullTfIdf>
+            <score>0.0043944491546724</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тенденция</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.053247999638314</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>университет</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0.088746666063857</titleTfIdf>
+            <fullTfIdf>0.038826666402938</fullTfIdf>
+            <score>0.063187626237466</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>федеральный</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>фигура</word>
+            <abstractTfIdf>0.02484906649788</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.019413333201469</fullTfIdf>
+            <score>0.009939626599152</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>аспект</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>географический</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>давать</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.0040264257735462</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>дата</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>два</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.0040264257735462</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ее</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>за</word>
+            <abstractTfIdf>0.0032323828365369</abstractTfIdf>
+            <titleTfIdf>0.018626994411785</titleTfIdf>
+            <fullTfIdf>0.0038357609660237</fullTfIdf>
+            <score>0.012469149781686</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>исторический</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>казанский</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.0040264257735462</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>казань</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.037306272437649</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>как</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.015926750837583</fullTfIdf>
+            <score>0.035748638324031</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>конденсировать</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.037306272437649</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>конференция</word>
+            <abstractTfIdf>0.04188044915373</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.044176118218453</fullTfIdf>
+            <score>0.048474392211977</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>краткий</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>летие</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>магнитный</word>
+            <abstractTfIdf>0.02792029943582</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.03313208866384</fullTfIdf>
+            <score>0.042890332324813</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>мир</word>
+            <abstractTfIdf>0.015576341136179</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.012322616543288</fullTfIdf>
+            <score>0.0062305364544714</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>на</word>
+            <abstractTfIdf>0.005121392044774</abstractTfIdf>
+            <titleTfIdf>0.055880983235355</titleTfIdf>
+            <fullTfIdf>0.0064825442415628</fullTfIdf>
+            <score>0.035577146759123</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>направление</word>
+            <abstractTfIdf>0.02792029943582</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.03313208866384</fullTfIdf>
+            <score>0.042890332324813</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>научный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.037306272437649</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0.0004888279606159</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.00038671723106502</fullTfIdf>
+            <score>0.00019553118424636</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>обзор</word>
+            <abstractTfIdf>0.02792029943582</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.011168119774328</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>от</word>
+            <abstractTfIdf>0.0030728352268644</abstractTfIdf>
+            <titleTfIdf>0.038122541898469</titleTfIdf>
+            <fullTfIdf>0.0032412721207814</fullTfIdf>
+            <score>0.024102659229827</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>открытие</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>отражение</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.031722212550485</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пар</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>пара</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>парамагнитный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>первый</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>период</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>показывать</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>предварять</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>при</word>
+            <abstractTfIdf>0.0030280702288353</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0023955400032564</fullTfIdf>
+            <score>0.0012112280915341</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>приложение</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>проводить</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.031722212550485</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>продемонстрировать</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.0040264257735462</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>радиоспектроскопия</word>
+            <abstractTfIdf>0.02792029943582</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.03313208866384</fullTfIdf>
+            <score>0.042890332324813</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>раз</word>
+            <abstractTfIdf>0.0038940852840446</abstractTfIdf>
+            <titleTfIdf>0.038122541898469</titleTfIdf>
+            <fullTfIdf>0.006161308271644</fullTfIdf>
+            <score>0.024431159252699</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>развитие</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.015926750837583</fullTfIdf>
+            <score>0.035748638324031</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>распространение</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>резонанс</word>
+            <abstractTfIdf>0.02792029943582</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.03313208866384</fullTfIdf>
+            <score>0.042890332324813</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>резонансный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.037306272437649</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>родственный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>рост</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>свойство</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.015926750837583</fullTfIdf>
+            <score>0.035748638324031</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>связь</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>созыв</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>среда</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0.052870354250809</titleTfIdf>
+            <fullTfIdf>0.022088059109227</fullTfIdf>
+            <score>0.037306272437649</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>статья</word>
+            <abstractTfIdf>0.0061719791498208</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0048827212829694</fullTfIdf>
+            <score>0.0024687916599283</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>так</word>
+            <abstractTfIdf>0.0030280702288353</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0023955400032564</fullTfIdf>
+            <score>0.0012112280915341</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>тематика</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0.0014664838818477</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0011601516931951</fullTfIdf>
+            <score>0.00058659355273908</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>хронологический</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>эволюция</word>
+            <abstractTfIdf>0.010066064433865</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.0079633754187914</fullTfIdf>
+            <score>0.0040264257735462</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>электронный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>это</word>
+            <abstractTfIdf>0.020132128867731</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015926750837583</fullTfIdf>
+            <score>0.0080528515470924</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>этот</word>
+            <abstractTfIdf>0.020132128867731</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.015926750837583</fullTfIdf>
+            <score>0.0080528515470924</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>юбилейный</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>явление</word>
+            <abstractTfIdf>0.01396014971791</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.011044029554613</fullTfIdf>
+            <score>0.005584059887164</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>ECHO</word>
+            <abstractTfIdf>0.828302216596</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.3313208866384</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>is</word>
+            <abstractTfIdf>0.828302216596</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.3313208866384</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>on</word>
+            <abstractTfIdf>0.828302216596</abstractTfIdf>
+            <titleTfIdf>0</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.3313208866384</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>арслан</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.13805036943267</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.0828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>не</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.061034016037117</titleTfIdf>
+            <fullTfIdf>0.0041433989042681</fullTfIdf>
+            <score>0.03662040962227</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>неподвижный</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.13805036943267</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.0828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>под</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.061034016037117</titleTfIdf>
+            <fullTfIdf>0.033007008598093</fullTfIdf>
+            <score>0.03662040962227</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>профессор</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.13805036943267</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.0828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>теорема</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.13805036943267</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.0828302216596</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>то</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.048637152075217</titleTfIdf>
+            <fullTfIdf>0.0041433989042681</fullTfIdf>
+            <score>0.02918229124513</score>
+
+        </WordTfIdfInfo>
+        <WordTfIdfInfo>
+            <word>точка</word>
+            <abstractTfIdf>0</abstractTfIdf>
+            <titleTfIdf>0.13805036943267</titleTfIdf>
+            <fullTfIdf>0.11832888808514</fullTfIdf>
+            <score>0.0828302216596</score>
+
+        </WordTfIdfInfo>
+    </values>
+</Idf>
