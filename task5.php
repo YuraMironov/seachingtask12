@@ -2,7 +2,7 @@
 
 require_once ('classes.php');
 
-$query = explode(' ', trim(file_get_contents('query')));
+$query = explode(' ', trim(file_get_contents('query1')));
 function exclude(&$arr) {
     $a = [];
     foreach ($arr as $w) {
