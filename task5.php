@@ -1,17 +1,20 @@
 <?php
 
-require_once ('classes.php');
+require_once('classes.php');
 
-function exclude(&$arr) {
+function exclude(&$arr)
+{
     $a = [];
     foreach ($arr as $w) {
         if (strpos($w, '-') === 0) {
             $arr = array_diff($arr, [$w]);
-            $a[] = substr($w ,1);
+            $a[] = substr($w, 1);
         }
     }
     return $a;
-};
+}
+
+;
 for ($i = 1; $i < 4; $i++) {
     $query = explode(' ', trim(file_get_contents('query' . $i)));
     $excluded_query = exclude($query);
@@ -43,18 +46,16 @@ for ($i = 1; $i < 4; $i++) {
     /* @var SimpleXMLElement $stemWords */
     $stemWords = $index->stemWords;
     $result = [];
-    foreach ($docsInfo as $id => $article) {
-        $abstract_len = str_word_count($article->abstract);
-        $title_len = str_word_count($article->title);
-        $sum_len = $abstract_len + $title_len;
-        foreach ($stemWords->children() as $stemWord) {
-            $word = (string)$stemWord->word;
+    foreach ($stemWords->children() as $stemWord) {
+        $word = (string)$stemWord->word;
+        $w = new WordTfIdfInfo($word);
+        foreach ($docsInfo as $id => $article) {
             $abstract_word_count = substr_count($article->abstract, $word);
             $title_word_count = substr_count($article->title, $word);
             $sum_count = $abstract_word_count + $title_word_count;
-            $titleTfIdf = $title_word_count / $title_len;
-            $abstractTfIdf = $abstract_word_count / $abstract_len;
-            $fullTfIdf = $sum_count / $sum_len;
+            $titleTfIdf = $title_word_count / $article->title_len;
+            $abstractTfIdf = $abstract_word_count / $article->abstract_len;
+            $fullTfIdf = $sum_count / $article->sum_len;
             $score = 0;
             if (strpos($article->title, $word) !== false) {
                 $count = (int)$stemWord->titles->attributes()['count'];
@@ -84,11 +85,10 @@ for ($i = 1; $i < 4; $i++) {
                 $score = 0.4 * $abstractTfIdf + 0.6 * $titleTfIdf;
             }
             if ($fullTfIdf > 0) {
-                $w = new WordTfIdfInfo($word);
                 $w->scores[] = new DocScore($id, $score);
-                $w->fullTfIdf = $fullTfIdf;
-                $w->titleTfIdf = $titleTfIdf;
-                $w->abstractTfIdf = $abstractTfIdf;
+                $w->fullTfIdf[] = new DocTfIdf($id, $fullTfIdf);
+                $w->titleTfIdf[] = new DocTitleTfIdf($id, $titleTfIdf);
+                $w->abstractTfIdf[] = new DocAbstractTfIdf($id, $abstractTfIdf);
                 $result[] = $w;
             }
         }

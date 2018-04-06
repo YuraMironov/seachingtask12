@@ -294,10 +294,16 @@ class WordTfIdfInfo {
 class DocScore
 {
     public $doc;
-    public $score;
+    public $val;
     public function __construct($d, $s)
     {
-        $this->score = $s;
+        $this->val = $s;
         $this->doc = $d;
     }
+}
+class DocTitleTfIdf extends DocScore{
+}
+class DocAbstractTfIdf extends DocScore{
+}
+class DocTfIdf extends DocScore {
 }
