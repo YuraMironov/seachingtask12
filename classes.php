@@ -289,5 +289,15 @@ class WordTfIdfInfo {
     public $abstractTfIdf;
     public $titleTfIdf;
     public $fullTfIdf;
+    public $scores;
+}
+class DocScore
+{
+    public $doc;
     public $score;
+    public function __construct($d, $s)
+    {
+        $this->score = $s;
+        $this->doc = $d;
+    }
 }
