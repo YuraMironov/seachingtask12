@@ -22,7 +22,6 @@ for ($i = 1; $i < 4; $i++) {
     $excluded_query = explode(' ', $excluded_query[0]);
     $query = explode(' ', $query[0]);
 
-
     $journal = new SimpleXMLElement(file_get_contents('journal.xml'));
     $articles = $journal->issues[0]->Issue[0]->articles[0];
     $docsInfo = [];
@@ -45,8 +44,16 @@ for ($i = 1; $i < 4; $i++) {
     $result = [];
     foreach ($stemWords->children() as $stemWord) {
         $word = (string)$stemWord->word;
+        if (array_search($word, $query) === false) {
+            continue;
+        }
+        if (array_search($word, $excluded_query) !== false) {
+            continue;
+        }
         $w = new WordTfIdfInfo($word);
-        foreach ($docsInfo as $id => $article) {
+        foreach ($stemWord->docs->id as $id) {
+            $id = (int) $id;
+            $article = $docsInfo[$id];
             $abstract_len = str_word_count($article->abstract);
             $title_len = str_word_count($article->title);
             $sum_len = $abstract_len + $title_len;
@@ -89,10 +96,11 @@ for ($i = 1; $i < 4; $i++) {
                 $w->fullTfIdf[] = new DocTfIdf($id, $fullTfIdf);
                 $w->titleTfIdf[] = new DocTitleTfIdf($id, $titleTfIdf);
                 $w->abstractTfIdf[] = new DocAbstractTfIdf($id, $abstractTfIdf);
-                $result[] = $w;
             }
         }
+        if ($w->fullTfIdf > 0) {
+            $result[] = $w;
+        }
     }
-
     file_put_contents('idf_by_query' . $i . '.xml', XMLSerializer::Serialize(new Idf($result)));
 }
