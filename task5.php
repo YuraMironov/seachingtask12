@@ -12,15 +12,6 @@ function exclude(&$arr) {
     }
     return $a;
 };
-for ($i = 1; $i < 4; $i++) {
-    $query = explode(' ', trim(file_get_contents('query' . $i)));
-    $excluded_query = exclude($query);
-    $query = array_diff($query, $excluded_query ? $excluded_query : []);
-
-    $excluded_query = preg_replace(['/}{/', '/(}|{|\?)/'], [' ', ''], mystem(implode(' ', $excluded_query)));
-    $query = preg_replace(['/}{/', '/(}|{|\?)/'], [' ', ''], mystem(implode(' ', $query)));
-    $excluded_query = explode(' ', $excluded_query[0]);
-    $query = explode(' ', $query[0]);
 
     $journal = new SimpleXMLElement(file_get_contents('journal.xml'));
     $articles = $journal->issues[0]->Issue[0]->articles[0];
@@ -44,12 +35,6 @@ for ($i = 1; $i < 4; $i++) {
     $result = [];
     foreach ($stemWords->children() as $stemWord) {
         $word = (string)$stemWord->word;
-        if (array_search($word, $query) === false) {
-            continue;
-        }
-        if (array_search($word, $excluded_query) !== false) {
-            continue;
-        }
         $w = new WordTfIdfInfo($word);
         foreach ($stemWord->docs->id as $id) {
             $id = (int) $id;
@@ -102,5 +87,4 @@ for ($i = 1; $i < 4; $i++) {
             $result[] = $w;
         }
     }
-    file_put_contents('idf_by_query' . $i . '.xml', XMLSerializer::Serialize(new Idf($result)));
-}
+    file_put_contents('words_tf_idf.xml', XMLSerializer::Serialize(new Idf($result)));

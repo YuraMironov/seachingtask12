@@ -22,7 +22,7 @@ class Matrix
 
         $rowsB = count($matrixB);
         $colsB = count($matrixB[0]);
-
+        $matrixProduct = [];
         if ($colsA == $rowsB) {
             for ($i = 0; $i < $rowsA; $i++) {
                 for ($j = 0; $j < $colsB; $j++) {
@@ -411,6 +411,7 @@ class Matrix
         }
 
         // calculate the rank
+        $rank = 0;
         for ($i = 0; $i < count($W); $i++) {
             if (round($W[$i], 4) > 0) {
                 $rank += 1;
@@ -420,6 +421,8 @@ class Matrix
         // Low-Rank Approximation
         $q = 0.9;
         $k = 0;
+        $frobA = 0;
+        $frobAk = 0;
         for ($i = 0; $i < $rank; $i++) $frobA += $W[$i];
         do {
             for ($i = 0; $i <= $k; $i++) $frobAk += $W[$i];
@@ -447,11 +450,11 @@ class Matrix
 }
 
 // input matrix
-$matrix = array(array('0.00', '0.00', '0.56', '0.56' . '0.00', '0.00', '1.00'),
-    array('0.49', '0.71', '0.00', '0.00' . '0.00', '0.71', '0.00'),
-    array('0.49', '0.71', '0.00', '0.00' . '0.00', '0.71', '0.00'),
-    array('0.72', '0.00', '0.00', '0.00' . '1.00', '0.00', '0.00'),
-    array('0.00', '0.00', '0.83', '0.83' . '0.00', '0.00', '0.00'));
+//$matrix = array(array('0.00', '0.00', '0.56', '0.56' . '0.00', '0.00', '1.00'),
+//    array('0.49', '0.71', '0.00', '0.00' . '0.00', '0.71', '0.00'),
+//    array('0.49', '0.71', '0.00', '0.00' . '0.00', '0.71', '0.00'),
+//    array('0.72', '0.00', '0.00', '0.00' . '1.00', '0.00', '0.00'),
+//    array('0.00', '0.00', '0.83', '0.83' . '0.00', '0.00', '0.00'));
 /*
 $matrix = array(array('22', '10', '2', '3', '7'),
                 array('14', '7', '10', '0', '8'),
@@ -464,25 +467,25 @@ $matrix = array(array('22', '10', '2', '3', '7'),
 */
 //$matrix = array(array('1', '-1'), array('0', '1'), array('1', '0'), array('-1', '1'));
 //$matrix = array(array('4', '0'), array('3', '-5'));
-$matrixClass = new Matrix;
+//$matrixClass = new Matrix;
 // start time
-$startTime = round(microtime(true), 4);
+//$startTime = round(microtime(true), 4);
 // run SVD for input matrix
-$USV = $matrixClass->svd($matrix);
+//$USV = $matrixClass->svd($matrix);
 // end time
-$endTime = round(microtime(true), 4);
+//$endTime = round(microtime(true), 4);
 // calculate process time
-$processTime = substr(($endTime - $startTime), 0, 5);
+//$processTime = substr(($endTime - $startTime), 0, 5);
 // calculate input matrix
-$input = $matrixClass->matrixMultiplication($USV['U'], $matrixClass->matrixMultiplication($USV['S'], $USV['V']));
-$input = $matrixClass->matrixRound($input);
-$Uk = $matrixClass->matrixConstruct($USV['U'], count($USV['U']), $USV['K']);
-$Ukt = $matrixClass->matrixTranspose($Uk);
-for ($i = 0; $i < count($Ukt); $i++) {
-    for ($j = 0; $j < count($Ukt[0]); $j++) {
-        $tokensResults[$j] += $Ukt[$i][$j];
-    }
-}
+//$input = $matrixClass->matrixMultiplication($USV['U'], $matrixClass->matrixMultiplication($USV['S'], $USV['V']));
+//$input = $matrixClass->matrixRound($input);
+//$Uk = $matrixClass->matrixConstruct($USV['U'], count($USV['U']), $USV['K']);
+//$Ukt = $matrixClass->matrixTranspose($Uk);
+//for ($i = 0; $i < count($Ukt); $i++) {
+//    for ($j = 0; $j < count($Ukt[0]); $j++) {
+//        $tokensResults[$j] += $Ukt[$i][$j];
+//    }
+//}
 /**
 echo "Matrix U:";
 echo "<br/>";
